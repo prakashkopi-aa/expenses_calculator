@@ -1,0 +1,28 @@
+Monthly Sub-Category Spending: 
+Category          Sub-Category              
+AMERICAN AIRLINES TORONTO (YYZ)        43.88
+APPLE             APPLE MUSIC          12.00
+                  APPLECARE (WATCH)     5.40
+                  APPLECARE(IPAD)       8.11
+                  APPLECARE(PHONE)     10.81
+                  ICLOUD STORAGE       10.81
+FOOD              AA CAFÉ               7.74
+                  AUNTIE ANNES          7.99
+                  DUNKIN                1.31
+GYM               CARPENTER            19.00
+                  EXOS                 30.00
+TESLA             CAR PAYMENT         558.00
+                  INSURANCE           200.00
+                  PREMIUM SERVICE      11.00
+ZA                365 SMOKE AND VAPE    7.57
+
+------------------------------------------------------------------
+
+Monthly Category Spending: 
+Category                 
+AMERICAN AIRLINES   43.88
+APPLE               47.13
+FOOD                17.04
+GYM                 49.00
+TESLA              769.00
+ZA                   7.57

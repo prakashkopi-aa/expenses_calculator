@@ -1,0 +1,19 @@
+Monthly Sub-Category Spending: 
+Category Sub-Category             
+APPLE    APPLE MUSIC         12.00
+         APPLECAERE(PHONE)   10.81
+         APPLECARE (WATCH)    5.40
+         ICLOUD STORAGE      10.81
+GYM      CARPENTER           19.00
+         EXOS                30.00
+TESLA    CAR PAYMENT        558.00
+         INSURANCE          200.00
+         PREMIUM SERVICE     11.00
+
+------------------------------------------------------------------
+
+Monthly Category Spending: 
+Category        
+APPLE      39.02
+GYM        49.00
+TESLA     769.00

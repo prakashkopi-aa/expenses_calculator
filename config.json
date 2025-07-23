@@ -1,0 +1,26 @@
+{
+    "Income": {
+        "Salary": 4800
+    },
+    "Twilio": {
+        "account_sid": "AC36900b14a23799bbdb3782b5623d2580",
+        "auth_token": "cba0085dfc65d2c1657ad61eb42d46bd",
+        "twilio_number": "+18445080294",
+        "recipient_number": "+14697400031"
+    },
+    "Email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 465,
+        "email_address": "prakashkopi@gmail.com",
+        "email_password": "2695 2411",
+        "recipient_email": "prakashkopi@gmail.com"
+    },
+    "Send Grid": {
+        "email_api_key": "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"
+    },
+    "File Path": {
+        "file_path": "/Users/prakashkopi/Documents/Personal Code Projects/expenses_calculator/monthly_expenses.xlsx",
+        "directory_path": "/Users/prakashkopi/Documents/Personal Code Projects/expenses_calculator/Graphs/PDF",
+        "access_token": "sl.B0SqQ0VR-2htTvZb0_RKmFhv5Dnf2GBnex5IKgL2BQ-zOK9Y6qcebKPS5MkFdIuNMmjHQU3aCKSSJOyLQv3xOxX2A5vy0o-ygTRWKDieBHh66nw_LrgcADvku-RNMjVBvlBfIFoIl2w1ZbcTPx_bXBk"
+    }
+}

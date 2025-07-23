@@ -1,0 +1,101 @@
+Monthly Sub-Category Spending: 
+Category          Sub-Category                                
+AMAZON            BATH MAT                               21.20
+                  DON'T REMEMBER                         54.10
+                  ERGO CHAIR                            170.00
+AMERICAN AIRLINES CHECKED BAG                            36.40
+APPLE             APPLE MUSIC                            12.00
+                  APPLECAERE(PHONE)                      10.81
+                  APPLECARE (WATCH)                       5.40
+                  ICLOUD STORAGE                         10.81
+DRINKS            DECADES (DC)                          114.73
+                  FRIENDS ONLY                           58.85
+                  GREENLIGHT SOCIAL                      62.42
+                  LAKE EFFECT                            55.28
+                  MAYFLOWER CLUB (DC)                    78.26
+FOOD              AA CAFÉ                                52.46
+                  ABU OMAR                               32.47
+                  BAKED AND WIRED                        11.33
+                  BJ'S                                   13.00
+                  BREAD FURST                            42.70
+                  BUCCEES                                 8.40
+                  BUN SLUT                               30.28
+                  CFA                                    88.33
+                  CHILIS                                 22.07
+                  CHIPOTLE                               55.20
+                  DOOR DASH                              27.06
+                  DRIPPED BIRRIA                         38.69
+                  DUNKIN                                 16.77
+                  GRUBHUB                                13.26
+                  HALLPASS                               32.62
+                  IL CANALE                              99.00
+                  KINGS PEAK COFFEE ROASTERS             30.51
+                  LOVES CONSUMER                         24.96
+                  MCDONALDS                              40.31
+                  MCKINNEYS BIG TEXAS GRIL               14.00
+                  MOLTN COOKIES                          10.65
+                  NO NAME SALOON GRILL                   61.00
+                  SAKURAMEN                              88.44
+                  SBARRO                                  6.30
+                  SETTEBELLO PIZZARIA                    33.00
+                  SMASHBURGER SLC                        11.45
+                  STARBUCKS                               3.58
+                  SUNROOM COFFEE                         18.48
+                  TALKIN TACOS                           53.29
+                  UBER EATS                              99.52
+                  UNCONVENTIONAL DINER                   26.72
+                  YYZ AIRPORT                            12.00
+FUN               CRYSTAL HOT SPRINGS                    42.00
+                  LEONARDO MUSEUM OF CREATIVITY (SLC)    28.00
+                  MAGNET (DC)                             8.47
+                  NIKE SHOES (LUKA)                      91.98
+                  PATAGONIA                             151.58
+                  RODEO                                  70.00
+                  TEXAS TULIPS                           30.00
+GIFTS             BELLROY SLING (AKSHEN)                 70.36
+                  LULU SWEATER (PERIYAMMA)              127.00
+GROCERIES         HEB                                    49.70
+                  WALMART                                19.53
+GYM               CARPENTER                              19.00
+                  EXOS                                   30.00
+HOTEL             DAYS INN                              190.00
+OTHER             7-ELEVEN (RITHU)                        5.95
+                  CB EULESS ONLINE                        3.03
+                  GOOGLE SERVICES                         3.19
+TESLA             CAR PAYMENT                           558.00
+                  INSURANCE                             200.00
+                  PREMIUM SERVICE                        10.81
+                  WINDSHIELD REPLACEMENT               1500.00
+TRANSPORTATION    BUDGET (SLC)                           83.62
+                  LAZ PARKING                             4.00
+                  NTTA                                  120.00
+                  PARK MOBILE                             9.00
+                  SMART TRIP DC                          52.00
+                  UBER (DC)                             132.04
+                  UBER (HOUSTON)                        180.08
+                  UBER (SLC)                             28.44
+UBER              DON'T REMEMBER                         12.95
+ZA                365 SMOKE AND VAPE                     20.98
+                  EDDIES (SLC)                           20.00
+                  HTOWN SMOKE                            34.49
+                  JUST SMOKE AND VAPE                    37.89
+
+------------------------------------------------------------------
+
+Monthly Category Spending: 
+Category                  
+AMAZON              245.30
+AMERICAN AIRLINES    36.40
+APPLE                39.02
+DRINKS              369.54
+FOOD               1117.85
+FUN                 422.03
+GIFTS               197.36
+GROCERIES            69.23
+GYM                  49.00
+HOTEL               190.00
+OTHER                12.17
+TESLA              2268.81
+TRANSPORTATION      609.18
+UBER                 12.95
+ZA                  113.36

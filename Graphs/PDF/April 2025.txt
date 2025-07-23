@@ -1,0 +1,57 @@
+Monthly Sub-Category Spending: 
+Category          Sub-Category                      
+AMAZON            IPAD KICKSTAND               32.46
+AMERICAN AIRLINES TORONTO (YYZ)                58.82
+AMEX              PLATINUM RENEWAL            695.00
+APPLE             APPLE MUSIC                  12.00
+                  APPLECAERE(PHONE)            10.81
+                  APPLECARE (WATCH)             5.40
+                  ICLOUD STORAGE               10.81
+                  IPAD PRO 11 M4              819.04
+FOOD              303 BISHOPS (SWETHEE BDAY)   66.00
+                  AA CAFÉ                      35.79
+                  CFA                          42.44
+                  CHIPOTLE                     21.87
+                  DUNKIN                        9.44
+                  MCDONALDS                    19.06
+                  MO BETTAHS                   13.00
+                  POKEWORKS                    15.60
+                  STARBUCKS                    10.00
+                  TWIN PEAKS                   15.31
+                  UBER EATS                     4.50
+                  WENDY'S                      12.52
+                  ZENNA                        40.60
+FUN               AIRBNB (SWETHEE BDAY)       120.00
+GIFTS             ALLIE                        28.25
+                  JUSTIN WEDDING               50.00
+                  KROGER (SWETHEE BDAY)       145.65
+                  SARINA HOUSEWARMING          21.64
+GROCERIES         WALMART                      84.69
+GYM               CARPENTER                    19.00
+                  EXOS                         30.00
+TESLA             CAR PAYMENT                 558.00
+                  INSURANCE                   200.00
+                  PREMIUM SERVICE              11.00
+                  SUPERCHARGER                  3.09
+TRANSPORTATION    NTTA                         80.00
+                  UBER (HOUSTON)              101.29
+ZA                365 SMOKE AND VAPE           59.49
+                  HTOWN SMOKE                  21.49
+                  JUST SMOKE & VAPE            27.05
+
+------------------------------------------------------------------
+
+Monthly Category Spending: 
+Category                 
+AMAZON              32.46
+AMERICAN AIRLINES   58.82
+AMEX               695.00
+APPLE              858.06
+FOOD               306.13
+FUN                120.00
+GIFTS              245.54
+GROCERIES           84.69
+GYM                 49.00
+TESLA              772.09
+TRANSPORTATION     181.29
+ZA                 108.03

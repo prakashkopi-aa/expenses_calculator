@@ -1,0 +1,21 @@
+Category                  
+AMAZON              355.37
+AMERICAN AIRLINES   199.47
+AMEX                695.00
+APPLE              1030.36
+CLOTHES              55.24
+DRINKS              394.54
+FOOD               1584.00
+FUN                 705.55
+GAS                  10.00
+GIFTS               442.90
+GROCERIES           460.02
+GYM                 245.00
+HOTEL               190.00
+OTHER                20.46
+TESLA              5351.86
+TRANSPORTATION      761.51
+TRANSPORTATION      181.29
+UBER                 12.95
+WALMART              38.62
+ZA                  297.32

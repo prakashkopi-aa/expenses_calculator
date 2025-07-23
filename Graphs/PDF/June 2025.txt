@@ -1,0 +1,52 @@
+Monthly Sub-Category Spending: 
+Category       Sub-Category                            
+AMAZON         5G SCOOP                            5.94
+               BODY MEASURING TAPE                 9.73
+               CREATINE                           56.00
+               CREATINE SCOOPER                    5.94
+APPLE          APPLE MUSIC                        12.00
+               APPLECAERE(PHONE)                  10.81
+               APPLECARE (WATCH)                   5.40
+               APPLECARE(IPAD)                     8.11
+               ICLOUD STORAGE                     10.81
+CLOTHES        SAKS POLO                          55.24
+DRINKS         BHARATHI NIGHT                     25.00
+FOOD           CFA                                 7.13
+               GENGHIS GRILL                      18.86
+               PARIS BAGUETTE                     10.79
+               TIM HORTONS                         2.51
+FUN            3V3 BASKETBALL TOURNAMENT (MIKE)   31.52
+               CINEMARK (THUG LIFE)               24.00
+               PSA MENS LEAGUE                   108.00
+GAS            BMW                                10.00
+GROCERIES      WALMART                           235.18
+GYM            CARPENTER                          19.00
+               EXOS                               30.00
+OTHER          7-ELEVEN                            8.29
+TESLA          CAR PAYMENT                       558.00
+               INSURANCE                         200.00
+               PREMIUM SERVICE                    11.00
+TRANSPORTATION NTTA                               80.00
+               PARKING (BHARATHI NIGHT)            5.35
+               UBER                               26.98
+WALMART        GROCERIES                          38.62
+ZA             JUST SMOKE AND VAPE                32.45
+
+------------------------------------------------------------------
+
+Monthly Category Spending: 
+Category              
+AMAZON           77.61
+APPLE            47.13
+CLOTHES          55.24
+DRINKS           25.00
+FOOD             39.29
+FUN             163.52
+GAS              10.00
+GROCERIES       235.18
+GYM              49.00
+OTHER             8.29
+TESLA           769.00
+TRANSPORTATION  112.33
+WALMART          38.62
+ZA               32.45
